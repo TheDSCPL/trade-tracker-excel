@@ -1,2 +1,3 @@
-# trade-tracker-excel
+# Trade Tracker
+
 Excel file to track spot and margin trades
